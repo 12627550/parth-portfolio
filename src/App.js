@@ -1,4 +1,4 @@
-// Interactive Portfolio with Services and Dark/Light Mode
+
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Mail, Linkedin, Download, TerminalSquare, FolderKanban, Layers, FileText, Sun, Moon, Briefcase } from 'lucide-react';
